@@ -1,11 +1,3 @@
-# IVC---GITHUB
-lab record for ivc
-NMAE  HARI KUMAR R
-BCA(H)
-SECTION "A"
-USN 1RUA25BCA0038
-BCA
-IVC
-PYTHON
-OS
-ENGLISH
+# IVC---GIT
+
+<!-- This is my first repooo -->

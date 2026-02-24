@@ -1,3 +1,2 @@
 # IVC---GIT
-
-HARIKUMAR R 1RUA25BCA0038
+push and pull
